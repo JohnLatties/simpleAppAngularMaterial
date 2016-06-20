@@ -1,0 +1,24 @@
+{
+  "name": "simple-app-angular-material",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jonathan Latties"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "material"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.0.9"
+  }
+}
